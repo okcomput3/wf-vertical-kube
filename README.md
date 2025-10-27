@@ -1,3 +1,8 @@
+# OLD VERSION WITHOUT CUBE CAPS, POPOUT WINDOWS AND BACKGROUND
+
+# checkout https://github.com/okcomput3/wayfire-v-kube for new version
+
+
 # Wayfire Vertical Kube Plugin
 
 A Wayfire plugin that displays workspace rows as vertical cubes, allowing navigation between workspace rows in a 3D cube interface.
